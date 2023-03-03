@@ -1,9 +1,10 @@
 <resources>
     <string name="app_name">JiY_1</string>
     <string name="TOTAL_PAY">지불할 총액</string>
-    <string name="TOTAL_PEOPLE">인원</string>
+    <string name="TOTAL_PEOPLE">총 인원</string>
     <string name="WEIGHT">가중치</string>
     <string name="DONE">완료</string>
     <string name="CHECK_TO_Percent">% 적용</string>
-    <string name="TXT_RESULT"><![CDATA[지불할 총액 ->\n인원 ->\n가중치\n\t\t없는 경우 0 입력\n\t\t체크 해제 시 원 단위로 적용\n 순으로 입력 후 완료 번튼 클릭]]></string>
+    <string name="TXT_RESULT"><![CDATA[지불할 총액 ->\n총 인원 ->\n회비 낸 인원 ->\n가중치*\n\t\t*없는 경우 0 입력\n\t\t*체크 해제 시 원 단위로 적용\n 순으로 입력 후 완료 번튼 클릭]]></string>
+    <string name="PAID_PEOPLE">회비O</string>
 </resources>
